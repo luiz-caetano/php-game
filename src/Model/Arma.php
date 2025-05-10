@@ -2,14 +2,12 @@
 
 namespace App\Model;
 
-class Arma
-{
-    private string $nome;
-    private int $dano;
-    private string $tipo;
+class Arma {
+    private $nome;
+    private $dano;
+    private $tipo;
 
-    public function __construct(string $nome, int $dano, string $tipo)
-    {
+    public function __construct(string $nome, int $dano, string $tipo) {
         $this->nome = $nome;
         $this->dano = $dano;
         $this->tipo = $tipo;
@@ -26,5 +24,4 @@ class Arma
     public function getTipo(): string {
         return $this->tipo;
     }
-
 }
