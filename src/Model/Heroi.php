@@ -9,10 +9,9 @@ namespace App\Model;
         private Arma $armas;
 
 
-        public function __construct(string $name, int $nivel, array $armas) {
+        public function __construct(string $name, int $nivel) {
             $this->name = $name;
             $this->nivel = $nivel;
-            $this->armas = $armas;
         }
 
         public function getName(): string {

@@ -8,4 +8,11 @@ class Batalha
     private Monstro $monstro;
     private string $resultado;
     private string $turno;
+
+
+    public function __construct()
+    {
+
+    }
+
 }
