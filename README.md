@@ -1,4 +1,4 @@
-# 🐘 PHP POO Skeleton
+# 🐘 PHP RPG Game
 
 [![PHP Version](https://img.shields.io/badge/php-8.1%2B-blue)](https://www.php.net/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -14,7 +14,7 @@ Utiliza Composer e Autoload PSR-4 para ensinar boas práticas de organização e
 
 ### ✅ Estrutura
 ```
-php-poo-skeleton/
+php-game/
 ├── composer.json
 ├── .gitignore
 ├── README.md
@@ -60,7 +60,7 @@ Composer and PSR-4 Autoload are used to teach best practices in modern PHP appli
 
 ### ✅ Structure
 ```
-php-poo-skeleton/
+php-game/
 ├── composer.json
 ├── .gitignore
 ├── README.md
