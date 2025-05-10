@@ -30,7 +30,7 @@ php-game/
 
 ```
 git clone https://github.com/angelomesquita/php-poo-skeleton.git
-cd php-poo-skeleton
+cd php-game
 ```
 2. Instalação
 ```
