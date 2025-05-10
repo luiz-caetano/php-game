@@ -27,5 +27,4 @@ class Arma
         return $this->tipo;
     }
 
-
 }
